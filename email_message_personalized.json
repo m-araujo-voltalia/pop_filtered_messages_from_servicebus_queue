@@ -1,0 +1,8 @@
+{
+  "system": "base_api",
+  "to_email": "m.araujo@voltalia.com,r.rocha@voltalia.com,mathhas.dev@gmail.com",
+  "bcc_email": "mathkeka@gmail.com",
+  "subject": "Essa veio da fila nova!",
+  "body": "<div><p>Eh feio mas eh trabalho honesto!</p></div>",
+  "env": "prod"
+}
